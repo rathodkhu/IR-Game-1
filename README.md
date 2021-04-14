@@ -1,1 +1,1 @@
-# IR-Game-1
+# project-38-INFINTE-RUNNER-GAME
